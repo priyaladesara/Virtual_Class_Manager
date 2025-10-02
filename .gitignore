@@ -1,0 +1,19 @@
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Logs and build output
+/target/
+/bin/
+logs/
